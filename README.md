@@ -1,4 +1,4 @@
-# webautomate
+# Academy Mortgage Coding Challenge
 Web automation project for Academy Mortgage
 This demo project covers the following areas.
 - Loading all the pages under the "About Us" dropdown. 
